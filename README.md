@@ -1,4 +1,4 @@
-# Data-Analytics
+# Data-Projects
 I am into discovering. I like sports. I care about happiness.
 
 I want to use data to find insights and make the world a better place to live in.
