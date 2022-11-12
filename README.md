@@ -1,6 +1,5 @@
 # Data-Projects
 
-I want to use data to find insights and make the world a better place to live in.
-
+I want to use machine learning methods and analytics to find new insights and stories behind the data and thus make some impacts.
 
 
